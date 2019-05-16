@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\obj\Debug\OtherStuffWithString.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\obj\Debug\OtherStuffWithString.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\bin\Debug\OtherStuffWithString.exe.config
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\bin\Debug\OtherStuffWithString.exe
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\bin\Debug\OtherStuffWithString.pdb
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\obj\Debug\OtherStuffWithString.exe
+C:\CSAIO4D\CSharpForDummies\OtherStuffWithString\obj\Debug\OtherStuffWithString.pdb

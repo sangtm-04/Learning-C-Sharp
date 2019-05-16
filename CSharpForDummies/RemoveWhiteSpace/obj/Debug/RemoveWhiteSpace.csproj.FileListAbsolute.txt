@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\bin\Debug\RemoveWhiteSpace.exe.config
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\bin\Debug\RemoveWhiteSpace.exe
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\bin\Debug\RemoveWhiteSpace.pdb
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\obj\Debug\RemoveWhiteSpace.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\obj\Debug\RemoveWhiteSpace.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\obj\Debug\RemoveWhiteSpace.exe
+C:\CSAIO4D\CSharpForDummies\RemoveWhiteSpace\obj\Debug\RemoveWhiteSpace.pdb

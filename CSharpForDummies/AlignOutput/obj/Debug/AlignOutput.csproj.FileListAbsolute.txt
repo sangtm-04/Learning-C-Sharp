@@ -1,0 +1,6 @@
+C:\CSAIO4D\CSharpForDummies\AlignOutput\bin\Debug\AlignOutput.exe.config
+C:\CSAIO4D\CSharpForDummies\AlignOutput\bin\Debug\AlignOutput.exe
+C:\CSAIO4D\CSharpForDummies\AlignOutput\bin\Debug\AlignOutput.pdb
+C:\CSAIO4D\CSharpForDummies\AlignOutput\obj\Debug\AlignOutput.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\AlignOutput\obj\Debug\AlignOutput.exe
+C:\CSAIO4D\CSharpForDummies\AlignOutput\obj\Debug\AlignOutput.pdb

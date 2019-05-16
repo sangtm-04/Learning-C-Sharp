@@ -1,0 +1,6 @@
+C:\CSAIO4D\CSharpForDummies\OutputFormatControls\bin\Debug\OutputFormatControls.exe.config
+C:\CSAIO4D\CSharpForDummies\OutputFormatControls\bin\Debug\OutputFormatControls.exe
+C:\CSAIO4D\CSharpForDummies\OutputFormatControls\bin\Debug\OutputFormatControls.pdb
+C:\CSAIO4D\CSharpForDummies\OutputFormatControls\obj\Debug\OutputFormatControls.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\OutputFormatControls\obj\Debug\OutputFormatControls.exe
+C:\CSAIO4D\CSharpForDummies\OutputFormatControls\obj\Debug\OutputFormatControls.pdb

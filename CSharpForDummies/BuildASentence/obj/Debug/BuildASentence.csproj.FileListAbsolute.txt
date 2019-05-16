@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\BuildASentence\bin\Debug\BuildASentence.exe.config
+C:\CSAIO4D\CSharpForDummies\BuildASentence\bin\Debug\BuildASentence.exe
+C:\CSAIO4D\CSharpForDummies\BuildASentence\bin\Debug\BuildASentence.pdb
+C:\CSAIO4D\CSharpForDummies\BuildASentence\obj\Debug\BuildASentence.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\BuildASentence\obj\Debug\BuildASentence.exe
+C:\CSAIO4D\CSharpForDummies\BuildASentence\obj\Debug\BuildASentence.pdb
+C:\CSAIO4D\CSharpForDummies\BuildASentence\obj\Debug\BuildASentence.csprojAssemblyReference.cache

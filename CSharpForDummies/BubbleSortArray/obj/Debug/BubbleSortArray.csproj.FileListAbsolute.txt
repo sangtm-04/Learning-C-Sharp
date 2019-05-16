@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\obj\Debug\BubbleSortArray.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\obj\Debug\BubbleSortArray.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\bin\Debug\BubbleSortArray.exe.config
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\bin\Debug\BubbleSortArray.exe
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\bin\Debug\BubbleSortArray.pdb
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\obj\Debug\BubbleSortArray.exe
+C:\CSAIO4D\CSharpForDummies\BubbleSortArray\obj\Debug\BubbleSortArray.pdb

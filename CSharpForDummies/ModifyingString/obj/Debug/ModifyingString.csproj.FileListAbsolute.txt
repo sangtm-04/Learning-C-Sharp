@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\ModifyingString\obj\Debug\ModifyingString.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\ModifyingString\obj\Debug\ModifyingString.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\ModifyingString\bin\Debug\ModifyingString.exe.config
+C:\CSAIO4D\CSharpForDummies\ModifyingString\bin\Debug\ModifyingString.exe
+C:\CSAIO4D\CSharpForDummies\ModifyingString\bin\Debug\ModifyingString.pdb
+C:\CSAIO4D\CSharpForDummies\ModifyingString\obj\Debug\ModifyingString.exe
+C:\CSAIO4D\CSharpForDummies\ModifyingString\obj\Debug\ModifyingString.pdb

@@ -1,0 +1,6 @@
+C:\CSAIO4D\CSharpForDummies\ParseSequenceWithSplit\bin\Debug\ParseSequenceWithSplit.exe.config
+C:\CSAIO4D\CSharpForDummies\ParseSequenceWithSplit\bin\Debug\ParseSequenceWithSplit.exe
+C:\CSAIO4D\CSharpForDummies\ParseSequenceWithSplit\bin\Debug\ParseSequenceWithSplit.pdb
+C:\CSAIO4D\CSharpForDummies\ParseSequenceWithSplit\obj\Debug\ParseSequenceWithSplit.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\ParseSequenceWithSplit\obj\Debug\ParseSequenceWithSplit.exe
+C:\CSAIO4D\CSharpForDummies\ParseSequenceWithSplit\obj\Debug\ParseSequenceWithSplit.pdb

@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\bin\Debug\StringBuilderTest.exe.config
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\bin\Debug\StringBuilderTest.exe
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\bin\Debug\StringBuilderTest.pdb
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\obj\Debug\StringBuilderTest.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\obj\Debug\StringBuilderTest.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\obj\Debug\StringBuilderTest.exe
+C:\CSAIO4D\CSharpForDummies\StringBuilderTest\obj\Debug\StringBuilderTest.pdb
