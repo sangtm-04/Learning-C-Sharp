@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\Indexer\bin\Debug\Indexer.exe.config
+C:\CSAIO4D\CSharpForDummies\Indexer\bin\Debug\Indexer.exe
+C:\CSAIO4D\CSharpForDummies\Indexer\bin\Debug\Indexer.pdb
+C:\CSAIO4D\CSharpForDummies\Indexer\obj\Debug\Indexer.exe
+C:\CSAIO4D\CSharpForDummies\Indexer\obj\Debug\Indexer.pdb

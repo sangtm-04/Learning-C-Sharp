@@ -1,0 +1,7 @@
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\bin\Debug\LoopThroughFiles.exe.config
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\bin\Debug\LoopThroughFiles.exe
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\bin\Debug\LoopThroughFiles.pdb
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\obj\Debug\LoopThroughFiles.csprojAssemblyReference.cache
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\obj\Debug\LoopThroughFiles.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\obj\Debug\LoopThroughFiles.exe
+C:\CSAIO4D\CSharpForDummies\LoopThroughFiles\obj\Debug\LoopThroughFiles.pdb
